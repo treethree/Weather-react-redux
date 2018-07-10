@@ -6,7 +6,7 @@ Weather broadcast using react and redux
 > npm install
 > npm start
 ```
-
+# Screen Shot
 ![Screenshot](./src/img/ScreenShot0.png)
-
+----------------------------------------
 ![Screenshot](./src/img/ScreenShot1.png)
